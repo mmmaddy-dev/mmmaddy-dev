@@ -25,10 +25,9 @@ I'm a 18 year old computer science freshman who has been interested in coding si
   <ul>
     <li>Flutter</li>
   </ul>
-  <h2>Projects</h2>
+  <h2>Projects in Progress</h2>
   <ul>
     <li>Website Portfolio</li>
-    <li>Mobile application to manage health</li>
   </ul>
   <h1>Contact</h1>
   <ul>
