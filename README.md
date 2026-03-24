@@ -1,5 +1,5 @@
 # Hi, I'm Maddy!
-I'm a 17 year old girl who has been interested in coding since I was 8, and have been actively learning since I was 13.
+I'm a 18 year old computer science freshman who has been interested in coding since I was 8, and have been actively learning since I was 13.
 
 <details>
   <summary>More about me</summary>
